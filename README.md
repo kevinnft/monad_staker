@@ -14,6 +14,6 @@ Bukan bot AI; ini hanya automation untuk memanggil `deposit(amount, recipient)` 
 ## Persiapan
 1. Node.js 18+
 2. `npm i`
-3. Buat file `.env` (JANGAN di-commit):
+3. Buat file `.env` 
    ```env
    PRIVATE_KEYS1=0x... # hingga PRIVATE_KEYS8
