@@ -19,8 +19,8 @@ Bot akan menjalankan beberapa wallet secara paralel, mengirim transaksi deposit 
 ## 📦 Persiapan
 ### 1. Clone repo & install dependencies
 ```bash
-git clone https://github.com/username/monad-staking-bot.git
-cd monad-staking-bot
+git clone https://github.com/kevinnft/monad_autostake_aprio
+cd monad_autostake_aprio
 npm install ethers dotenv
 ```
 
