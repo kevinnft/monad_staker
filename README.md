@@ -57,7 +57,7 @@ Jika ingin ganti RPC atau kontrak, ubah variabel di atas.
 
 ## 🚀 Cara Menjalankan
 ```bash
-node bot.js
+node apr.js
 ```
 
 Contoh output:
